@@ -1,7 +1,7 @@
 #output{
     background: white;
     border-radius: 10px;
-    border-top:10px solid #7df018;
+    border-top:10px solid #f0e518;
     padding: 10px;
     float:none;
     text-align: left;
@@ -12,3 +12,4 @@
 }
 body{
     background-color: rgb(255, 94, 0);
+}
